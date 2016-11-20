@@ -1,0 +1,6 @@
+c:\users\prabhat\documents\visual studio 2012\Projects\IMDBRater\IMDBRater\bin\Debug\IMDBRater.exe.config
+c:\users\prabhat\documents\visual studio 2012\Projects\IMDBRater\IMDBRater\bin\Debug\IMDBRater.exe
+c:\users\prabhat\documents\visual studio 2012\Projects\IMDBRater\IMDBRater\bin\Debug\IMDBRater.pdb
+c:\users\prabhat\documents\visual studio 2012\Projects\IMDBRater\IMDBRater\obj\Debug\IMDBRater.exe
+c:\users\prabhat\documents\visual studio 2012\Projects\IMDBRater\IMDBRater\obj\Debug\IMDBRater.pdb
+c:\users\prabhat\documents\visual studio 2012\Projects\IMDBRater\IMDBRater\obj\Debug\IMDBRater.csprojResolveAssemblyReference.cache
